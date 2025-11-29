@@ -33,7 +33,6 @@ R.A.M.A. (Reliable Agent for Misinformation Analysis) is an end-to-end fact-chec
 |------|------|
 | **Nimish** | Backend Lead |
 | **Sarthak** | Backend |
-| **Pavan** | Frontend |
 | **Chetan** | Frontend |
 | **Ashish** | MCP/Ingestion |
 
