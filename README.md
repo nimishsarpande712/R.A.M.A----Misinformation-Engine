@@ -1,4 +1,4 @@
-# 🛡️ R.A.M.A. - Reliable Agent for Misinformation Analysis
+# 🛡️ R.A.M.A. - Research Automation using MCP Server & Agentic-AI
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## 📖 What is R.A.M.A.?
 
-R.A.M.A. (Reliable Agent for Misinformation Analysis) is an end-to-end fact-checking platform designed to verify claims in real-time. It combines:
+R.A.M.A. (Research Automation using MCP Server & Agentic-AI) is an end-to-end fact-checking platform designed to verify claims in real-time. It combines:
 
 - **🤖 Hybrid AI Models**: Gemini (online) with Ollama (offline) fallback
 - **📰 Multi-Source Verification**: News APIs, Government bulletins, Fact-check databases, Social media
