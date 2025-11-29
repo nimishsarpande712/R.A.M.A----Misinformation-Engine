@@ -570,7 +570,7 @@ For issues or questions, contact the team leads:
 | Area | Contact |
 |------|---------|
 | Backend | Nimish, Sarthak |
-| Frontend | Pavan, Chetan |
+| Frontend | , Chetan |
 | MCP/Ingestion | Ashish |
 
 ---
