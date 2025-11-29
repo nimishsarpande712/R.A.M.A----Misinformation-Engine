@@ -1,0 +1,42 @@
+# Core dependencies
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+
+# Web framework
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# AI/ML
+<<<<<<< HEAD
+openai>=1.20.0
+sentence-transformers>=2.2.2
+google-generativeai>=0.3.0
+=======
+google-generativeai>=0.8.0
+sentence-transformers==2.2.2
+>>>>>>> f7b9d1374505795c6df0a83d5b4547f2b7c6b837
+
+# Database
+pymongo>=4.5.0
+chromadb>=0.5.0
+
+# HTTP requests
+requests>=2.31.0
+httpx>=0.25.0
+
+# Utilities
+pydantic>=2.4.0
+python-multipart>=0.0.6
+backoff>=2.2.1
+
+# RSS & Web Scraping
+feedparser>=6.0.10
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# NLP
+nltk>=3.8.0

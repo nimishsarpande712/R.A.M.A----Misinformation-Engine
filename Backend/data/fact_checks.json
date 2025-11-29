@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "id": "fact_check_1",
+      "claim": "Vaccines cause autism in children",
+      "verdict": "FALSE",
+      "explanation": "Extensive scientific research has repeatedly shown no link between vaccines and autism. The original study claiming this connection was found to be fraudulent and has been retracted.",
+      "source": "CDC",
+      "date": "2024-01-15",
+      "rating": 1,
+      "evidence_quality": "high"
+    },
+    {
+      "id": "fact_check_2", 
+      "claim": "Climate change is primarily caused by solar cycles, not human activity",
+      "verdict": "FALSE",
+      "explanation": "Scientific consensus confirms that current climate change is primarily driven by human activities, particularly greenhouse gas emissions from fossil fuels. Solar cycles have a minimal impact on recent warming trends.",
+      "source": "IPCC",
+      "date": "2024-01-20",
+      "rating": 1,
+      "evidence_quality": "high"
+    },
+    {
+      "id": "fact_check_3",
+      "claim": "The COVID-19 vaccines were developed faster than any vaccine in history",
+      "verdict": "TRUE",
+      "explanation": "COVID-19 vaccines were indeed developed in record time, with mRNA vaccines authorized in less than a year. This was possible due to unprecedented global collaboration, funding, and building on existing mRNA technology research.",
+      "source": "FDA",
+      "date": "2024-01-25", 
+      "rating": 5,
+      "evidence_quality": "high"
+    },
+    {
+      "id": "fact_check_4",
+      "claim": "Eating garlic daily cures type 2 diabetes",
+      "verdict": "FALSE",
+      "explanation": "While garlic has some health benefits and contains compounds with potential therapeutic properties, there is no scientific evidence that eating garlic cures diabetes. Type 2 diabetes requires proper medical management, diet, exercise, and medication.",
+      "source": "American Diabetes Association",
+      "date": "2024-02-01",
+      "rating": 1,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["health", "diabetes", "medical-myth"]
+    },
+    {
+      "id": "fact_check_5",
+      "claim": "The 2024 presidential election was rigged through widespread voter fraud",
+      "verdict": "FALSE",
+      "explanation": "Multiple audits, recounts, and court cases across all states found no evidence of widespread voter fraud in 2024. Election officials from both parties, cybersecurity experts, and judges consistently confirmed the integrity of the election.",
+      "source": "Department of Justice",
+      "date": "2024-02-10",
+      "rating": 1,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["election", "voting", "misinformation"]
+    },
+    {
+      "id": "fact_check_6",
+      "claim": "Drinking colloidal silver can boost immune system and prevent COVID-19",
+      "verdict": "MISLEADING",
+      "explanation": "Colloidal silver is not proven effective for COVID-19 prevention and may be harmful. The FDA has warned against its use, and consuming it can cause argyria (permanent blue-gray discoloration of skin). Vaccines and standard preventive measures are recommended instead.",
+      "source": "FDA",
+      "date": "2024-02-15",
+      "rating": 2,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["health", "covid-19", "supplement-myth"]
+    },
+    {
+      "id": "fact_check_7",
+      "claim": "Earthquake prediction technology can reliably forecast major earthquakes weeks in advance",
+      "verdict": "FALSE",
+      "explanation": "Current scientific consensus is that earthquakes cannot be reliably predicted weeks or months in advance. While scientists can identify earthquake-prone regions and estimate long-term risks, precise prediction remains impossible with existing technology.",
+      "source": "U.S. Geological Survey",
+      "date": "2024-02-20",
+      "rating": 1,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["disaster", "earthquake", "science"]
+    },
+    {
+      "id": "fact_check_8",
+      "claim": "Floods in coastal areas are increasing due to climate change and sea level rise",
+      "verdict": "TRUE",
+      "explanation": "Scientific studies confirm that coastal flooding is becoming more frequent and severe due to climate change-induced sea level rise, increased extreme weather events, and land subsidence. Many cities are experiencing 'nuisance flooding' even without storms.",
+      "source": "NOAA",
+      "date": "2024-02-25",
+      "rating": 5,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["disaster", "climate-change", "flooding"]
+    },
+    {
+      "id": "fact_check_9",
+      "claim": "The H1N1 flu vaccine causes more deaths than it prevents",
+      "verdict": "FALSE",
+      "explanation": "Extensive monitoring data shows the H1N1 vaccine is safe and effective. The benefits of vaccination in preventing flu illness and death significantly outweigh the rare side effects. Millions were vaccinated safely during the 2009 H1N1 pandemic.",
+      "source": "CDC",
+      "date": "2024-03-01",
+      "rating": 1,
+      "evidence_quality": "high",
+      "language": "en",
+      "tags": ["health", "vaccine", "flu"]
+    }
+  ]
+}

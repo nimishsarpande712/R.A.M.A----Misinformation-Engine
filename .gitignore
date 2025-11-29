@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment files (keep secrets out of git)
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+**/*.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node
+node_modules/
+dist/
+
+# Chroma DB persistent data
+Backend/data/chroma/

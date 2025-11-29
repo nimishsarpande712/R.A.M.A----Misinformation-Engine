@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sample-twitter-1",
+    "platform": "twitter",
+    "author": "@datanews_india",
+    "text": "Latest updates on the Indian Union Budget highlights the increase in infrastructure spending and green initiatives.",
+    "url": "https://twitter.com/datanews_india/status/1234567890",
+    "posted_at": "2024-02-01T08:15:00Z"
+  },
+  {
+    "id": "sample-youtube-1",
+    "platform": "youtube",
+    "author": "CivicWatch",
+    "text": "Explainer video on recent public health advisories issued by WHO for seasonal influenza preparedness.",
+    "url": "https://www.youtube.com/watch?v=abcdef12345",
+    "posted_at": "2024-03-12T10:30:00Z"
+  },
+  {
+    "id": "sample-instagram-1",
+    "platform": "instagram",
+    "author": "@factchecktoday",
+    "text": "Carousel posts debunking viral misinformation about new government welfare schemes.",
+    "url": "https://www.instagram.com/p/XYZ789/",
+    "posted_at": "2024-04-20T14:45:00Z"
+  }
+]
